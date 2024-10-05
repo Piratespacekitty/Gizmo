@@ -26,6 +26,10 @@
 - Extreme Vertical: N/A
 - Iron Dog: N/A
 
+## Event Schedule
+- Sunfest, Ocean City Maryland, October 27 2024
+- Waterfowl Festival with Delmarva DockDogs, Easton Maryland, November 8-10 2024
+
 ## Event Results
 ### Jumping in Jersey with Delmarva DockDogs
 - Big Air Wave #1: 19'9", 1st Place Senior
