@@ -34,20 +34,14 @@
 - Big Air Wave #6: 21'8", 1st Place Master
 - Big Air Wave #7: 22'4", 3rd Place Master
 - Big Air Wave #8: 20'5", 1st Place Master
-
 - Extreme Vertical: 6'2", 1st Place Top Gun, 1st Place Overall
-
 - Speed Retrieve: 6.592 sec, 3rd Place Nitro
-
 - Iron Dog: 2958.69, 2nd Place Gladiator, 2nd Place Overall
-
 - Big Air Master Finals: 22'7", 1st Place
-
 - New BA PB: 22'7"
 - New EV PB: 6'2"
 - New SR PB: 6.592 sec
 - New ID PB: 2958.69 points
-
 - New BA Club Title: Master
 
 ### Colonial K9 Classic with Chesapeake DockDogs
@@ -74,7 +68,6 @@
 - Iron Dog: 2831.08 pts, 3rd Place Titan
 - Big Air Finals: 19'8", 4th Place
 - Overall EV: 4th Place Cadet
-
 - New Big Air PB: 19'8"
 - New Extreme Vertical PB: 5'6"
 - New Speed Retrieve PB: 7.324 sec
@@ -87,6 +80,5 @@
 - Big Air Wave #4: 18'0", 2nd Place Senior
 - Big Air Wave #5: 13'8"
 - Big Air Wave #6: 15'2"
-
 - New Big Air PB: 18'2"
 - New Club Title: Big Air Senior
