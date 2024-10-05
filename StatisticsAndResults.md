@@ -1,4 +1,5 @@
 # GIZMO STATS
+- Instagram: @gizmoadventuredog
 
 ## Titles
 ### Club
