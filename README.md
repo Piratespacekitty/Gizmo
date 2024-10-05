@@ -82,3 +82,9 @@
 - Big Air Wave #6: 15'2"
 - New Big Air PB: 18'2"
 - New Club Title: Big Air Senior
+
+### Tails & Ales with Keystone DockDogs
+- Big Air Wave #7: 16'10"
+- Big Air Wave #9: 16'7"
+- Big Air Wave #10: 15'2"
+- New Big Air PB: 16'10"
