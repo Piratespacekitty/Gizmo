@@ -49,3 +49,15 @@
 - New ID PB: 2958.69 points
 
 - New BA Club Title: Master
+
+### Colonial K9 Classic with Chesapeake DockDogs
+- Big Air Wave #5: 18'7", 1st Place Senior
+- Extreme Vertical: 5'4", 3rd Place Cadet
+- Big Air Wave #7: 17'3", 3rd Place Senior
+- Big Air Wave #8: 18'5", 2nd Place Senior
+- Big Air Wave #9: 18'2", 2nd Place Senior
+- Big Air Wave #10: 18'9", 1st Place Senior
+- Speed Retrieve: 7.052, 2nd Place Turbo
+- Iron Dog: 2821.94, 2nd Place Titan
+- Big Air Senior Finals: 18'6", 2nd Place
+- New SR PB: 7.052sec
