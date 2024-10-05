@@ -61,3 +61,21 @@
 - Iron Dog: 2821.94, 2nd Place Titan
 - Big Air Senior Finals: 18'6", 2nd Place
 - New SR PB: 7.052sec
+
+### Kipona Festival with Keystone DockDogs
+- Big Air Wave #1: 18'7", 3rd Place Senior
+- Big Air Wave #3: 19'5", 1st Place Senior
+- Extreme Vertical Wave #1: 5'6", 2nd Place Cadet
+- Big Air Wave #5: 17'0"
+- Big Air Wave #6: 17'10"
+- Big Air Wave #9: 19'3", 3rd Place Senior
+- Big Air Wave #10: 19'0"
+- Speed Retrieve: 7.324 sec, 3rd Place Turbo
+- Iron Dog: 2831.08 pts, 3rd Place Titan
+- Big Air Finals: 19'8", 4th Place
+- Overall EV: 4th Place Cadet
+
+- New Big Air PB: 19'8"
+- New Extreme Vertical PB: 5'6"
+- New Speed Retrieve PB: 7.324 sec
+- New Iron Dog PB: 2831.08 pts
