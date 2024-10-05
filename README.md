@@ -79,3 +79,14 @@
 - New Extreme Vertical PB: 5'6"
 - New Speed Retrieve PB: 7.324 sec
 - New Iron Dog PB: 2831.08 pts
+
+### Harford County Farm Fair with Chesapeake DockDogs
+- Big Air Wave #1: 16'0"
+- Big Air Wave #2: 16'11"
+- Big Air Wave #3: 18'2"
+- Big Air Wave #4: 18'0", 2nd Place Senior
+- Big Air Wave #5: 13'8"
+- Big Air Wave #6: 15'2"
+
+- New Big Air PB: 18'2"
+- New Club Title: Big Air Senior
